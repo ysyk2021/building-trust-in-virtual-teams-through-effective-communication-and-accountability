@@ -1,5 +1,4 @@
-Chapter 1: Defining Virtual Teams: Challenges to Building Trust in Virtual Teams
-================================================================================
+# Challenges to Building Trust in Virtual Teams
 
 Virtual teams are becoming increasingly common in today's globalized workplace. In this chapter, we will define virtual teams, explore the challenges they face in building trust, and how these challenges can be overcome.
 

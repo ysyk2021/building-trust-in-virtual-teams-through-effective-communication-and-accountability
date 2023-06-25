@@ -1,5 +1,4 @@
-Chapter 4: Establishing Accountability in Virtual Teams: The Importance of Accountability
-=========================================================================================
+# The Importance of Accountability
 
 Accountability is a critical component of building trust and ensuring effective collaboration in virtual teams. In this chapter, we will explore the importance of accountability in virtual teams and its impact on team performance.
 

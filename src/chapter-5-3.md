@@ -1,5 +1,4 @@
-Chapter 4: Establishing Accountability in Virtual Teams: Dealing with Underperforming Team Members
-==================================================================================================
+# Dealing with Underperforming Team Members
 
 In virtual teams, establishing accountability is essential for building trust and achieving success. When team members are accountable for their actions and responsibilities, they are more likely to deliver on their commitments and work collaboratively towards shared goals. However, managing underperforming team members can be challenging in a virtual environment.
 

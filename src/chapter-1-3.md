@@ -1,4 +1,4 @@
-Introduction: Brief History of Remote Work and Trust
+Brief History of Remote Work and Trust
 ====================================================
 
 Remote work has been around for centuries, with examples of people working from home or outside of traditional offices dating back to ancient Rome. However, it wasn't until the rise of technology in the 20th century that remote work became a viable option for many workers.

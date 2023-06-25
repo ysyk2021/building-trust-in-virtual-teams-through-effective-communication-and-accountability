@@ -1,5 +1,4 @@
-Chapter 2: The Importance of Trust in Virtual Teams: The Impact of Trust on Team Performance
-============================================================================================
+# The Impact of Trust on Team Performance
 
 Trust is critical for effective collaboration and communication in virtual teams. In this chapter, we will explore the impact of trust on team performance.
 

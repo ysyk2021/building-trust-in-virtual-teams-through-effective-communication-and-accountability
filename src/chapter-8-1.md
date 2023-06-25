@@ -1,5 +1,4 @@
-Chapter 7: Future Trends in Virtual Teams and Trust: Potential Developments in Virtual Teams and Technology
-===========================================================================================================
+# Potential Developments in Virtual Teams and Technology
 
 As virtual teams become more prevalent in the workplace, there are several potential developments in virtual teams and technology that could impact how trust is built and maintained. In this chapter, we will explore some of these potential developments.
 

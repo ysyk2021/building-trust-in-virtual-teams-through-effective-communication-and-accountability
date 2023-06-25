@@ -1,5 +1,4 @@
-Chapter 5: Building Relationships in Virtual Teams: Providing Opportunities for Social Interaction
-==================================================================================================
+# Providing Opportunities for Social Interaction
 
 Building relationships is a critical component of building trust in virtual teams. In this chapter, we will explore the importance of providing opportunities for social interaction in virtual teams and techniques for doing so.
 
