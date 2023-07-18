@@ -8,5 +8,4 @@ The authors draw on their extensive experience working with virtual teams to off
 
 With a focus on effective communication and mutual accountability, "Building Trust in Virtual Teams" is the ultimate guide for anyone looking to build stronger relationships and achieve greater success in a virtual environment. By following the strategies outlined in this book, you'll be able to create a culture of trust and collaboration that leads to increased productivity, engagement, and overall success.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
