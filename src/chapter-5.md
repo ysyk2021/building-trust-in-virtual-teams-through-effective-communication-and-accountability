@@ -1,5 +1,3 @@
-Chapter 4: Establishing Accountability in Virtual Teams
-=======================================================
 
 Accountability is essential for building trust in virtual teams. In this chapter, we will explore the importance of accountability, techniques for establishing accountability, and strategies for dealing with underperforming team members.
 

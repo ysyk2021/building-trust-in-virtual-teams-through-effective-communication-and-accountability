@@ -1,4 +1,3 @@
-# The Impact of Trust on Team Performance
 
 In this chapter, we will explore the significant impact that trust has on team performance within virtual teams. Trust is not only crucial for building positive relationships but also plays a vital role in fostering collaboration, enhancing communication, and driving overall team effectiveness.
 

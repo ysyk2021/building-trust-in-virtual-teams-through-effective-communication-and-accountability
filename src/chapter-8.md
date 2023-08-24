@@ -1,5 +1,3 @@
-Chapter 7: Future Trends in Virtual Teams and Trust
-===================================================
 
 As virtual teams continue to grow and evolve, so do the trends and attitudes towards building trust in these teams. In this chapter, we will explore potential developments in virtual teams and technology, evolving attitudes towards virtual teams and trust, and implications for the future of work.
 
